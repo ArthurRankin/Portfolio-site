@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import Logo from '../images/ARS LOGO.svg';
+import Logo from '../images/ARS-LOGO.svg';
 
 
 
