@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import './home.css'
-import LGLogo from '../images/ARS LOGO.svg';
+import LGLogo from '../images/ARS-LOGO.svg';
 
 
 
